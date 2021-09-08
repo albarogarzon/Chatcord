@@ -1,0 +1,20 @@
+{
+  "name": "chatcord",
+  "version": "1.0.0",
+  "description": "Aplicacion de chats en tiempo real con salas",
+  "main": "server.js",
+  "scripts": {
+    "script": "node server",
+    "dev":"nodemon server"
+  },
+  "author": "Albaro Garzon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
