@@ -8,3 +8,5 @@ npm run dev
 
 Go to localhost:3000
 ```
+## Tutorial
+https://youtu.be/jD7FnbI76Hg
